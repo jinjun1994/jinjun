@@ -13,9 +13,9 @@
   "author": "Codertocat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Codertocat/hello-world-npm/issues"
+    "url": "https://github.com/jinjun1994/jinjun/issues"
   },
-  "homepage": "https://github.com/Codertocat/hello-world-npm#readme",
+  "homepage": "https://github.com/jinjun/jinjun#readme",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   }
